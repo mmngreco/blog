@@ -1,0 +1,8 @@
+site_name: mmngreco
+theme:
+  name: material
+nav:
+- Home: index.md
+plugins:
+  - mkdocs-jupyter
+
