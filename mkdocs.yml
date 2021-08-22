@@ -1,8 +1,21 @@
 site_name: mmngreco
+
 theme:
   name: material
+
 nav:
 - Home: index.md
+
 plugins:
   - mkdocs-jupyter
+  - search
+  - mermaid2:
+      arguments:
+        theme: 'classic'
 
+extra_javascript:
+  # - https://cdn.jsdelivr.net/npm/texme@0.7.0
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
