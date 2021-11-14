@@ -1,6 +1,5 @@
 mkdocs
 mkdocs-jupyter
-mkdosc-material
+mkdocs-material
 mkdocs-mermaid2-plugin
 python-markdown-math
-
