@@ -9,6 +9,8 @@ Authors: Maximiliano Greco
 
 # Switching between tmux session efficiently
 
+![](img/tmux-fzf-session/tmux-fzf-session.gif)
+
 In a nutshell, I've created `~/.local/bin/tmux-fzf-session` and give it
 execution permissions (`sudo chmod +x ~/.local/bin/tmux-fzf-session`), with the
 following content:
