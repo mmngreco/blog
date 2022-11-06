@@ -6,9 +6,9 @@ slug: Solved graphics issues
 
 ## Context
 
-I've had a weird issues with my laptop (x1, carbon) which suddenly started to
-hanging process and the laptop's monitor got laggy (not showing in realtime
-what I've typed). I'm using i3 in a Pop!_OS.
+I've had a weird issues in my laptop (carbon x1) which suddenly started to
+hanging processes and the laptop's monitor got laggy (e.g not showing in
+real time what I typed). I'm using i3 in a Pop!_OS.
 
 
 ## Solution
@@ -21,5 +21,5 @@ $ gsettings set com.system76.hidpi enable false
 ```
 
 
-source: https://support.system76.com/articles/hidpi-multi-monitor/
+> source: [https://support.system76.com/articles/hidpi-multi-monitor/](https://support.system76.com/articles/hidpi-multi-monitor/)
 
