@@ -3,3 +3,4 @@ mkdocs-jupyter
 mkdocs-material
 mkdocs-mermaid2-plugin
 python-markdown-math
+jupyter_contrib_nbextensions
